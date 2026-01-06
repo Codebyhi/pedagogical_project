@@ -69,13 +69,14 @@ header>h1{
     padding: 0px 0px 0px 10px;
     font: 300 1em var(--fontP);
     text-shadow: 1px 1px 3px var(--cor0);
+    text-align: center;
 }
 /* -----------------------------------------links------------------------------------------------*/
 .links{
     min-width: 1%;
     max-width: 100%;
     text-align: left;
-    margin: 0px 0px 0px 90px;
+    margin: 0px 0px 0px 50px;
 }
 .links>a{
     text-decoration: none;
