@@ -1,14 +1,4 @@
 @charset "UTF-8";
-/* para criar uma variavel no css nois utilizamos :root */
-/* e para declarar uma variavel nis utilizamos -- */
-/* para criar uma adaptação de imagem e interface nois usamos min-width para largura minima e max-width para largura maxima */
-/* use o margin auto para esse tipo de alteração */
-/* para modificar a linha de baixo do texto nois usamos line-height */
-/* para mudar a posição de um estilo de um lista nois usamos list-style-position: inside; */
-/* para criar uma coluna dentro de uma lista nois usamos columns */
-/* para botar uma emoji ou qualquer coisa dentro de todos paragrafos de uma lista nois usamos list-style-type: ''; */
-/* para fazer os box levels colarem nois usamos -20px nas alterações de padding e margin */
-/* para adaptar um player e concerta alguns erros usamos position: relative; na div e position: absolute; no iframe, sempre use porcentagem nessas alterações */
 :root{
     --cor0: black;
     --cor1: white;
